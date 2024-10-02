@@ -10,6 +10,7 @@ thunder = Spell("Thunder", 25, 600, "black")
 blizzard = Spell("Blizzard", 25, 600, "black")
 meteor = Spell("Meteor", 40, 1200, "black")
 quake = Spell("Quake", 14, 140, "black")
+quake2 = Spell("Quake2", 20, 240, "black")
 
 # Create White Magic
 cure = Spell("Cure", 25, 620, "white")
