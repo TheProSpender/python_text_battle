@@ -5,7 +5,7 @@ import random
 
 
 # Create Black Magic
-fire = Spell("Fire", 25, 600, "black")
+Ice = Spell("Fire", 25, 600, "black")
 thunder = Spell("Thunder", 25, 600, "black")
 blizzard = Spell("Blizzard", 25, 600, "black")
 meteor = Spell("Meteor", 40, 1200, "black")
